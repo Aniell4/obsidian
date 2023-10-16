@@ -11,3 +11,7 @@ so goodbye, you have never known me better than myself, that is egocentrical of 
 
 to everyone else, i care for you, come to me and ask me for help, i will try to my limits, i have problems with undestranding emotions, i am going to do therapy, i am going to become a better person, but not for anybody else than me in foremost, in second, the ones i love. which i will not be putting here because of shame.
 
+
+this all spurted out of this singular message from the person i thought was the closest to me.
+![image](https://github.com/Aniell4/obsidian/assets/43622438/4b9fb111-1cb2-4d87-8836-9c37a7994370)
+
