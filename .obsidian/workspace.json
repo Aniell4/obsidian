@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4926f622ee18f53b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "o-pce/31 - 08 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbf0e64b0c5565c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "o-pce/11 - 09 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6779a098630da5bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "o-pce/13 - 09 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74f3e8580bc6421f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "o-pce/15 - 09 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76b8fc834c9c3ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "o-pce/28 - 09 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eda6fc8de3322fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "o-pce/03 - 10 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5b6fb70c03f1760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "o-pce/13 - 10 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f16a6daecdaa4b3",
             "type": "leaf",
             "state": {
@@ -103,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,8 +170,15 @@
   },
   "active": "2f16a6daecdaa4b3",
   "lastOpenFiles": [
-    "o-pce/19 - 10 - 2023.md",
+    "o-pce/13 - 10 - 2023.md",
+    "o-pce/03 - 10 - 2023.md",
+    "o-pce/28 - 09 - 2023.md",
+    "o-pce/15 - 09 - 2023.md",
+    "o-pce/13 - 09 - 2023.md",
+    "o-pce/11 - 09 - 2023.md",
+    "o-pce/31 - 08 - 2023.md",
     "o-pce/20 - 10 - 2023.md",
+    "o-pce/19 - 10 - 2023.md",
     "o-pce/18 - 10 - 2023.md",
     "o-pce/17 - 10 - 2023.md",
     "Flubromazepam/17 - 10 - 2023.md",
@@ -274,14 +196,7 @@
     "o-pce/14 - 10 - 2023.md",
     "bk-2-cb/01 - 10 - 2023.md",
     "bk-2-cb/27 - 09 - 2023.md",
-    "o-pce/13 - 10 - 2023.md",
     "Flubromazepam/03 - 10 - 2023.md",
-    "o-pce/12 - 10 - 2023.md",
-    "o-pce/11 -10 - 2023.md",
-    "o-pce/10 - 10 - 2023.md",
-    "o-pce/09 - 10 - 2023.md",
-    "o-pce/08 - 10 - 2023.md",
-    "o-pce/07 - 10 - 2023.md",
     "Flubromazepam",
     "2-mmc",
     "bk-2-cb",
