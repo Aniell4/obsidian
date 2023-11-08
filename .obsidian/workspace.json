@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "o-pce/08 - 11 - 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec1e2ba443b0cfc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "o-pce/25 - 07 - 2023.md",
-                "mode": "source",
+                "file": "Pyrazolam/08 - 11 - 2023.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "o-pce/25 - 07 - 2023.md",
+                "file": "Pyrazolam/08 - 11 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "o-pce/25 - 07 - 2023.md",
+                "file": "Pyrazolam/08 - 11 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "o-pce/25 - 07 - 2023.md"
+                "file": "Pyrazolam/08 - 11 - 2023.md"
               }
             }
           }
@@ -181,12 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec1e2ba443b0cfc9",
+  "active": "1ab327d79e7a82f6",
   "lastOpenFiles": [
-    "o-pce/08 - 11 - 2023.md",
-    "README.md",
-    "Pyrazolam/08 - 11 - 2023.md",
     "Pyrazolam/06 - 11 - 2023.md",
+    "Pyrazolam/08 - 11 - 2023.md",
+    "o-pce/08 - 11 - 2023.md",
+    "o-pce/25 - 07 - 2023.md",
+    "README.md",
     "o-pce/07 - 11 - 2023.md",
     "4F-MPH/07 - 11 - 2023.md",
     "o-pce/02  - 11 - 2023.md",
@@ -208,7 +196,6 @@
     "o-pce/18 - 10 - 2023.md",
     "o-pce/17 - 10 - 2023.md",
     "o-pce/16 - 10 - 2023.md",
-    "o-pce/15 - 10 - 2023.md",
     "4F-MPH",
     "Pyrazolam",
     "Untitled.canvas",
