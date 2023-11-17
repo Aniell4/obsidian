@@ -104,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "o-pce/30 - 06 - 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "o-pce/30 - 06 - 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "o-pce/30 - 06 - 2023.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8db0f431f5786e08",
+  "active": "5055d9df7526b022",
   "lastOpenFiles": [
+    "o-pce/30 - 06 - 2023.md",
     "Pyrazolam/12 - 11 - 2023.md",
     "o-pce/13 - 11 - 2023.md",
     "THC + Cannabinoids (WEED BBY) + Tobacco/17 - 11 - 2023.md",
@@ -192,7 +189,6 @@
     "o-pce/12 - 11 - 2023.md",
     "o-pce/14 - 11 - 2023.md",
     "Pyrazolam/14 - 11 - 3023.md",
-    "DO NOT TOUCH/leaving behind.md",
     "4F-MPH",
     "Pyrazolam",
     "Untitled.canvas",
